@@ -39,7 +39,7 @@ Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 - The paid version have 70 more in app coins compare to the free version from the beginning
 - The paid version unlock all functionalities at the beginning, the free version you need to earn in app coin to unlock them
 
-### Whene to download Ninja Sudoku
+### Where to download Ninja Sudoku
 
 Ninja Sudoku & Ninja Sudoku pro are distributed through the Google play store, you can download them either by scan the QR code bellow or following the link:
 
