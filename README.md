@@ -21,17 +21,17 @@ You can watch the promotion video:
 
 Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 
-- Arbic
-- Germany
-- Spanish
-- French
-- Japanese
-- Malay
-- Dutch
-- Portuguese
-- Russian
-- Simplified Chinese
-- Traditional Chinese
+- عربى
+- Deutsche
+- Español
+- Francés
+- 日本語
+- Melayu
+- Nederlands
+- Português
+- русский
+- 简体中文
+- 繁體中文
 
 ### What's the main difference between the Pro version and the free version
 
