@@ -21,6 +21,7 @@ You can watch the promotion video:
 
 Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 
+- English
 - عربى
 - Deutsche
 - Español
