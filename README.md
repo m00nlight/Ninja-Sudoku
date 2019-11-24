@@ -48,6 +48,13 @@ Ninja Sudoku & Ninja Sudoku pro are distributed through the Google play store, y
 | QR Code | ![Ninja Sudoku](./Ninja-Sudoku-QR-with-icon.png)  | ![Ninja Sudoku Pro](./Ninja-Sudoku-Pro-QR-with-icon.png) |
 | Link | [Ninja Sudoku](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku) |  [Ninja Sudoku Pro](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku.pro) |
 
+
+### Privacy
+
+Ninja Sudoku & Pro does not collect any user data. You can view the whole privacy policy at the following link
+
+[Privacy policy](https://sites.google.com/view/ninja-sudoku/home)
+
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any feedback, suggestion or feature request, please send email to <m00nlight.appdev@gmail.com>
