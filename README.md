@@ -35,9 +35,9 @@ Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 
 ### What's the main difference between the Pro version and the free version
 
-- The paid version do not have Ads at all
-- The paid version have 70 more in app coins compare to the free version from the beginning
-- The paid version unlock all functionalities at the beginning, the free version you need to earn in app coin to unlock them
+- The paid version does not have Ads at all
+- The paid version has 70 more in app coins compare to the free version from the beginning
+- The paid version unlocks all functionalities at the beginning, the free version you need to earn in app coin to unlock them
 
 ### Where to download Ninja Sudoku
 
