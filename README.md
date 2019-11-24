@@ -2,7 +2,7 @@
 
 Ninja Sudoku is a Android Sudoku game with logical hint and solver.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Te5Iw1orGjA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Te5Iw1orGjA" frameborder="0" allowfullscreen></iframe>
 
 
 
