@@ -43,10 +43,10 @@ Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 
 Ninja Sudoku & Ninja Sudoku pro are distributed through the Google play store, you can download them either by scan the QR code bellow or following the link:
 
-
-[Ninja Sudoku](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku)
-
-[Ninja Sudoku Pro](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku.pro)
+| Name | Ninja Sudoku | Ninja Sudoku Pro |
+|---|---|---|
+| QR Code | ![Ninja Sudoku](./Ninja-Sudoku-QR-with-icon.png)  | ![Ninja Sudoku Pro](./Ninja-Sudoku-Pro-QR-with-icon.png) |
+| Link | [Ninja Sudoku](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku) |  [Ninja Sudoku Pro](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku.pro) |
 
 ### Support or Contact
 
