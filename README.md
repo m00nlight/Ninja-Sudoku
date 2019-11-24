@@ -10,7 +10,7 @@ Ninja Sudoku is a Android Sudoku game with logical hint and solver. It has the f
 - Able to generate all candidate numbers of the unfilled cells by one-click
 - Highlight related cells and numbers.
 - Notes taking and unlimited undo and redo. 
-- Sudoku techniques explanation.
+- In-depth Sudoku techniques' explanation.
 
 You can watch the promotion video:
 
