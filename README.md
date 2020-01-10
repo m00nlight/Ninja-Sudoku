@@ -12,14 +12,14 @@ Ninja Sudoku is a Android Sudoku game with logical hint and solver. It has the f
 - Notes taking and unlimited undo and redo. 
 - In-depth Sudoku techniques' explanation.
 
-You can watch the promotion video:
+You can watch the following feature video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Te5Iw1orGjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6e5-pbE40YQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Supported languages
 
-Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
+Ninja Sudoku currently supports the following languages:
 
 - English
 - عربى
@@ -34,25 +34,19 @@ Ninja Sudoku & Ninja Sudoku Pro currently support the following languages:
 - 简体中文
 - 繁體中文
 
-### What's the main difference between the Pro version and the free version
-
-- The paid version does not have Ads at all
-- The paid version has 70 more in app coins compare to the free version from the beginning
-- The paid version unlocks all functionalities at the beginning, the free version you need to earn in app coin to unlock them
-
 ### Where to download Ninja Sudoku
 
-Ninja Sudoku & Ninja Sudoku pro are distributed through the Google play store, you can download them either by scan the QR code bellow or following the link:
+Ninja Sudoku is distributed through the Google play store, you can download them either by scan the QR code bellow or following the link:
 
-| Name | Ninja Sudoku | Ninja Sudoku Pro |
-|---|---|---|
-| QR Code | ![Ninja Sudoku](./Ninja-Sudoku-QR-with-icon.png)  | ![Ninja Sudoku Pro](./Ninja-Sudoku-Pro-QR-with-icon.png) |
-| Link | [Ninja Sudoku](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku) |  [Ninja Sudoku Pro](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku.pro) |
+| Name | Ninja Sudoku | 
+|---|---|
+| QR Code | ![Ninja Sudoku](./Ninja-Sudoku-QR-with-icon.png)  |
+| Link | [Ninja Sudoku](https://play.google.com/store/apps/details?id=com.m00nlight.samuraisudoku) |
 
 
 ### Privacy
 
-Ninja Sudoku & Pro does not collect any user data. You can view the whole privacy policy at the following link
+Ninja Sudoku does not collect any user data. You can view the whole privacy policy at the following link
 
 [Privacy policy](https://sites.google.com/view/ninja-sudoku/home)
 
